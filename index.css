@@ -1,0 +1,14 @@
+body {
+    background-color: #73716E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: black;
+    padding: 25px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 20%;
+}
